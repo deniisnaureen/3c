@@ -1,0 +1,166 @@
+.utama-child,
+.utama-item {
+  position: absolute; 
+  top: 0;
+  left: 0; 
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25); 
+  background-color: var(--color-mistyrose-200);
+  width: 1440px;
+  height: 86px;
+}
+.utama-item {
+  top: 86px;
+  height: 63px;
+}
+.hai-ini-beaulivre {
+  position: absolute;
+  top: 323px;
+  left: 553px;
+  display: inline-block;
+  width: 1107px;
+  height: 200px;
+  mix-blend-mode: luminosity;
+}
+.anda-dapat-mencari1 {
+  margin: 0;
+}
+.anda-dapat-mencari-container1 {
+  position: absolute;
+  top: 400px;
+  left: 553px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 606px;
+  height: 174px;
+  mix-blend-mode: luminosity;
+}
+.buku-di-utama1 {
+  position: absolute;
+  top: 273px;
+  left: 86px;
+  width: 445px;
+  height: 389px;
+  object-fit: cover;
+}
+.beaulivre11 {
+  position: absolute;
+  top: 43px;
+  left: 108px;
+  display: inline-block;
+  width: 169px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.logo-icon11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 108px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-parent3 {
+  position: absolute;
+  top: 14px;
+  left: 13px;
+  width: 277px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-caveat-brush);
+}
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 238px;
+}
+.copyright-2024-designed5 {
+  top: 110px;
+  left: 515px;
+  font-weight: 500;
+  width: 370px;
+  height: 25px;
+}
+.beaulivre12,
+.copyright-2024-designed5,
+.website-ini-merupakan5 {
+  position: absolute;
+  display: inline-block;
+}
+.website-ini-merupakan5 {
+  top: 36px;
+  left: 1156.2px;
+  font-weight: 500;
+  width: 236.2px;
+  height: 25px;
+}
+.beaulivre12 {
+  top: 43px;
+  left: 102.9px;
+  width: 161px;
+  height: 31px;
+  mix-blend-mode: luminosity;
+}
+.logo-icon12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 102.9px;
+  height: 118px;
+  object-fit: cover;
+}
+.beaulivre-parent4 {
+  position: absolute;
+  top: 49px;
+  left: 43.8px;
+  width: 263.8px;
+  height: 118px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-caveat-brush);
+}
+.vector-container {
+  position: absolute;
+  top: 786px;
+  left: 0;
+  width: 1440px;
+  height: 238px;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-inknut-antiqua);
+}
+.utama-inner {
+  position: absolute;
+  top: 574px;
+  left: 553px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-indianred-200);
+  width: 184px;
+  height: 41px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.masuk1 {
+  position: absolute;
+  top: 581px;
+  left: 609px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jura);
+  color: var(--color-black);
+  display: inline-block;
+  width: 72px;
+  height: 34px;
+  mix-blend-mode: luminosity;
+}
+.utama {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-mistyrose-100);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-rosybrown-100);
+  font-family: var(--font-cagliostro);
+}
